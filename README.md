@@ -1,11 +1,12 @@
-##Contact-Whatsapp
+## TryLs-Whatsapp
 wa.me/6282235581069?=Assalamualaikum+Bang
 
 
 
 
 ## TryLs
-BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
+BOT WHATSAPP BISA DIGUNAKAN DI TERMUX
+
 
 
 
